@@ -6,3 +6,4 @@
 - <a href="https://brief-skipjack-aaf.notion.site/Spring-Boot-0e6ab96019794c43b1a1d93e8f297d81"> 8월2일(월) : Spring Boot</a>
 - <a href="https://brief-skipjack-aaf.notion.site/Spring-Security-e7962ddeff0e4a869407dcb2c56b62f8"> 8월3일(화) : Spring Security</a>
 - <a href="https://brief-skipjack-aaf.notion.site/DAO-DTO-Entity-Class-c474c0c727814d98af5db4b7384892cc"> 8월4일(수) : DAO, DTO의 사용 그리고 Entity Class(?)</a>
+- <a href="https://brief-skipjack-aaf.notion.site/Design-Pattern-1f055daf37ab4dde8ffc6edca0bf180c"> 8월5일(목) : 디자인 패턴이란?</a>
