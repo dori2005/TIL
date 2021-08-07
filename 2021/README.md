@@ -8,3 +8,4 @@
 - <a href="https://brief-skipjack-aaf.notion.site/DAO-DTO-Entity-Class-c474c0c727814d98af5db4b7384892cc"> 8월4일(수) : DAO, DTO의 사용 그리고 Entity Class(?)</a>
 - <a href="https://brief-skipjack-aaf.notion.site/Design-Pattern-1f055daf37ab4dde8ffc6edca0bf180c"> 8월5일(목) : 디자인 패턴이란?</a>
 - <a href="https://brief-skipjack-aaf.notion.site/Elastic-Search-5b924fbfd3c94c51b851eb3e1cc0f94d"> 8월6일(금) : 엘라스틱 서치란?</a>
+- <a href="https://brief-skipjack-aaf.notion.site/Vanilla-JS-711f9379a7f147eca99f5297fee56c17"> 8월7일(토) : Vanilla JS</a>
