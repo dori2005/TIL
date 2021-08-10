@@ -11,3 +11,4 @@
 - <a href="https://brief-skipjack-aaf.notion.site/Vanilla-JS-711f9379a7f147eca99f5297fee56c17"> 8월7일(토) : Vanilla JS</a>
 - <a href="https://brief-skipjack-aaf.notion.site/Singleton-Pattern-6afc80dea040464ab53e4823404a8958"> 8월8일(일) : 싱글톤 패턴()</a>
 - <a href="https://brief-skipjack-aaf.notion.site/MyBatis-8f804c6aa27940a2abb293ff53658f07"> 8월9일(월) : Mybatis()</a>
+- <a href="https://brief-skipjack-aaf.notion.site/3cd28b4b232a4dafa0f21685062245ff"> 8월10일(화) : 백엔드와 프론트엔드라고?</a>
