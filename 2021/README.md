@@ -12,3 +12,4 @@
 - <a href="https://brief-skipjack-aaf.notion.site/Singleton-Pattern-6afc80dea040464ab53e4823404a8958"> 8월8일(일) : 싱글톤 패턴()</a>
 - <a href="https://brief-skipjack-aaf.notion.site/MyBatis-8f804c6aa27940a2abb293ff53658f07"> 8월9일(월) : Mybatis()</a>
 - <a href="https://brief-skipjack-aaf.notion.site/3cd28b4b232a4dafa0f21685062245ff"> 8월10일(화) : 백엔드와 프론트엔드라고?</a>
+- <a href="https://brief-skipjack-aaf.notion.site/e888b73cac414d39a2dcbb0586d2ba73"> 8월11일(수) : 시큐어코딩-해킹</a>
