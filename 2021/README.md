@@ -14,3 +14,4 @@
 - <a href="https://brief-skipjack-aaf.notion.site/3cd28b4b232a4dafa0f21685062245ff"> 8월10일(화) : 백엔드와 프론트엔드라고?</a>
 - <a href="https://brief-skipjack-aaf.notion.site/e888b73cac414d39a2dcbb0586d2ba73"> 8월11일(수) : 시큐어코딩-해킹</a>
 - <a href="https://brief-skipjack-aaf.notion.site/django-446fcd830a874d1ebbcd5eae3c6cfd31"> 8월12일(목) : django</a>
+- <a href="https://brief-skipjack-aaf.notion.site/Rust-f621d1c09eb943039c87fccc1d0ad875"> 8월13일(금) : Rust</a>
