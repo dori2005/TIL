@@ -17,3 +17,4 @@
 - <a href="https://brief-skipjack-aaf.notion.site/Rust-f621d1c09eb943039c87fccc1d0ad875"> 8월13일(금) : Rust</a>
 - <a href="https://brief-skipjack-aaf.notion.site/TypeScript-fcdd121b32ec4a95b9130352cc2c5fb7"> 8월15일(일) : TypeScript란?</a>
 - <a href="https://brief-skipjack-aaf.notion.site/MultiTenency-f42877222d6a4e419a492b63d78fc41d"> 8월16일(월) : 멀티테넌시란?</a>
+- <a href="https://brief-skipjack-aaf.notion.site/Metaverse-a4838528b21e4b22942f28b8060fba5c"> 8월18일(수) : 메타버스가 뭐길래 이렇게 뜰까?</a>
