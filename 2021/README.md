@@ -20,3 +20,4 @@
 - <a href="https://brief-skipjack-aaf.notion.site/Metaverse-a4838528b21e4b22942f28b8060fba5c"> 8월18일(수) : 메타버스가 뭐길래 이렇게 뜰까?</a>
 - <a href="https://brief-skipjack-aaf.notion.site/Xquery-Xpath-f43417eba8b8412bbf2bbc7b58c9597f"> 8월20일(금) : Xquery, Xpath</a>
 - <a href="https://brief-skipjack-aaf.notion.site/Clojure-68d6f86abada44cd84d4a85380be7d55"> 8월21일(토) : Clojure란?</a>
+- <a href="https://brief-skipjack-aaf.notion.site/GraphQL-817a95b7130d457992abbf7dcd172613"> 8월22일(일) : GraphQL이란?</a>
