@@ -22,3 +22,4 @@
 - <a href="https://brief-skipjack-aaf.notion.site/Clojure-68d6f86abada44cd84d4a85380be7d55"> 8월21일(토) : Clojure란?</a>
 - <a href="https://brief-skipjack-aaf.notion.site/GraphQL-817a95b7130d457992abbf7dcd172613"> 8월22일(일) : GraphQL이란?</a>
 - <a href="https://brief-skipjack-aaf.notion.site/TELNET-371df41b43e8431693b2aef3c39b11ac"> 8월23일(월) : TELNET</a>
+- <a href="https://brief-skipjack-aaf.notion.site/SSH-Secure-Shell-54c36c3cc8a74bbaaf45a019fa7afb40"> 8월24일(화) : SSH(Secure Shell)</a>
