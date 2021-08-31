@@ -24,3 +24,4 @@
 - <a href="https://brief-skipjack-aaf.notion.site/TELNET-371df41b43e8431693b2aef3c39b11ac"> 8월23일(월) : TELNET</a>
 - <a href="https://brief-skipjack-aaf.notion.site/SSH-Secure-Shell-54c36c3cc8a74bbaaf45a019fa7afb40"> 8월24일(화) : SSH(Secure Shell)</a>
 - <a href="https://brief-skipjack-aaf.notion.site/Kotlin-b7c6c576251343179e3372d963808bb0"> 8월30일(월) : Kotlin</a>
+- <a href="https://brief-skipjack-aaf.notion.site/Swift-3265481d4f1f4631a4714515a28e7eef"> 8월31일(화) : Swift</a>
