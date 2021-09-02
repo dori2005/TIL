@@ -17,7 +17,7 @@
 - <a href="https://brief-skipjack-aaf.notion.site/Rust-f621d1c09eb943039c87fccc1d0ad875"> 8월13일(금) : Rust</a>
 - <a href="https://brief-skipjack-aaf.notion.site/TypeScript-fcdd121b32ec4a95b9130352cc2c5fb7"> 8월15일(일) : TypeScript란?</a>
 - <a href="https://brief-skipjack-aaf.notion.site/MultiTenency-f42877222d6a4e419a492b63d78fc41d"> 8월16일(월) : 멀티테넌시란?</a>
-- <a href="https://brief-skipjack-aaf.notion.site/Metaverse-a4838528b21e4b22942f28b8060fba5c"> 8월18일(수) : 메타버스가 뭐길래 이렇게 뜰까?</a>
+- <a href="https://brief-skipjack-aaf.notion.site/Metaverse-a4838528b21e4b22942f28b8060fba5c"> 8월18일(수) : 메타버스가 뭐길래 이렇게 뜰까?+</a>
 - <a href="https://brief-skipjack-aaf.notion.site/Xquery-Xpath-f43417eba8b8412bbf2bbc7b58c9597f"> 8월20일(금) : Xquery, Xpath</a>
 - <a href="https://brief-skipjack-aaf.notion.site/Clojure-68d6f86abada44cd84d4a85380be7d55"> 8월21일(토) : Clojure란?</a>
 - <a href="https://brief-skipjack-aaf.notion.site/GraphQL-817a95b7130d457992abbf7dcd172613"> 8월22일(일) : GraphQL이란?</a>
@@ -25,4 +25,4 @@
 - <a href="https://brief-skipjack-aaf.notion.site/SSH-Secure-Shell-54c36c3cc8a74bbaaf45a019fa7afb40"> 8월24일(화) : SSH(Secure Shell)</a>
 - <a href="https://brief-skipjack-aaf.notion.site/Kotlin-b7c6c576251343179e3372d963808bb0"> 8월30일(월) : Kotlin</a>
 - <a href="https://brief-skipjack-aaf.notion.site/Swift-3265481d4f1f4631a4714515a28e7eef"> 8월31일(화) : Swift</a>
-- <a href="https://brief-skipjack-aaf.notion.site/Fin-tech-227b593501ed485cb49cb0de09863b6d"> 9월1일(수) : 핀테크(Fin tech란?</a>
+- <a href="https://brief-skipjack-aaf.notion.site/Fin-tech-227b593501ed485cb49cb0de09863b6d"> 9월1일(수) : 핀테크(Fin tech)란?</a>
