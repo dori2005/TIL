@@ -25,4 +25,8 @@
 - <a href="https://brief-skipjack-aaf.notion.site/SSH-Secure-Shell-54c36c3cc8a74bbaaf45a019fa7afb40"> 8월24일(화) : SSH(Secure Shell)</a>
 - <a href="https://brief-skipjack-aaf.notion.site/Kotlin-b7c6c576251343179e3372d963808bb0"> 8월30일(월) : Kotlin</a>
 - <a href="https://brief-skipjack-aaf.notion.site/Swift-3265481d4f1f4631a4714515a28e7eef"> 8월31일(화) : Swift</a>
+
+
+## loose September
 - <a href="https://brief-skipjack-aaf.notion.site/Fin-tech-227b593501ed485cb49cb0de09863b6d"> 9월1일(수) : 핀테크(Fin tech)란?</a>
+- <a href="https://brief-skipjack-aaf.notion.site/Express-js-38bd3a70433e40a8b21bf20345855704"> 9월6일(월) : Express.js</a>
